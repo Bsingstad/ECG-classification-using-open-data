@@ -3,7 +3,7 @@ FYS-STK4155 Project 3
 **********************
 
 .. image:: /img/12_lead_ecg_plot.png
-**Figure 1:** This plot is made by using ecg plot [#]_  and the ECG data is from [#]_. 
+**Figure 1:** This plot is made by using ecg plot [#]_  and the ECG data is from the PTB Diagnostic DB [#]_. 
 
 
 Classification of 12-lead ECGs 
@@ -16,7 +16,6 @@ You will need a kaggle API-token to be able to access the 7 data sets that is us
 
 https://colab.research.google.com/drive/1X5N_6gErP7--IDoN-AxW-aBbeYa4z-n7?usp=sharing
 
-`Notebook <https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Models/EnsembleModel12lead.ipynb>`_
 
 
 |ensemble12lead|
@@ -66,8 +65,8 @@ How to get your Kaggle API token:
 
 
    
-Get access to the data:
------------------------
+10-fold cross-validated models:
+-------------------------------
 +--------------+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
 | Model number | Model                                                               | Link to Google Colab Notebook                                                                                      | Link to Notebook on github                                                                                                                    |
 +--------------+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
