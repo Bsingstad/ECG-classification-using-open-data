@@ -16,6 +16,7 @@ Data:
 The data set in this project comes from six different sources
 
 **Table:** *The table lists the six different sources used in the data set in this project*
+
 +-----------------+---------------------------------------------------+
 | Data set number | Name                                              |
 +-----------------+---------------------------------------------------+
