@@ -3,6 +3,8 @@ FYS-STK4155 Project 3
 **********************
 
 .. image:: /img/12_lead_ecg_plot.png
+**Figure 1** This plot is made by using ecg plot [#]_  and the ECG data is from [#]_. 
+
 
 ECG Classification
 =================================================================
@@ -167,6 +169,8 @@ Licensed under the `Apache 2.0 License`_
 References:
 -----------
 
-.. [#] ECG-Featurizer: https://github.com/ECG-featurizer/ECG-featurizer
+.. [#] ECG plot: https://github.com/dy1901/ecg_plot
+.. [#] PTB Diagnostic DB: Bousseljot R, Kreiseler D, Schnabel, A. Nutzung der EKG-Signaldatenbank CARDIODAT der PTB über das Internet. Biomedizinische Technik, Band 40, Ergänzungsband 1 (1995) S 317
+
 
 
