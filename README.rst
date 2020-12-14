@@ -54,10 +54,10 @@ How to get your Kaggle API token:
 3. Scroll down to the API-section and click "Create New API Token"-button. 
 4. You will now have a file named kaggle.json. This is your API-token
 
-|made-with-latex|
+|open colab|
 
 .. |made-with-latex| image:: https://colab.research.google.com/assets/colab-badge.svg   
-   :target: https://www.latex-project.org/  
+   :target: https://colab.research.google.com/drive/1bVuZYcunlbLPIiUkCN9UKIE9AFcsxQrZ#scrollTo=L65YY9QqQZtf  
 
 Data:
 -----
