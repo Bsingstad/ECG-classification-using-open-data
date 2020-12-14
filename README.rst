@@ -49,7 +49,7 @@ To get access to the data used in this study you can either download it from htt
  
 How to get your Kaggle API token:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Log in to your Kaggle account (https://www.kaggle.com/) or sign up here: https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
+1. Log in to your `Kaggle account <https://www.kaggle.com/>`_ or sign up here: https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
 
 
 Data:
