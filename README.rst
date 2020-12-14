@@ -8,7 +8,7 @@ FYS-STK4155 Project 3
 
 Classification of 12-lead ECGs 
 =================================================================
-This project is based on the work we did in the  `PhysioNet/Computing in Cardiology Challenge 2020 <https://physionetchallenges.github.io/2020/>`_.  `This paper <https://iopscience.iop.org/article/10.1088/1361-6579/abc960>`_ describes the Challenge and `this paper <https://physionetchallenges.github.io/2020/papers/227.pdf>`_ discribes our contribution in this challenge.
+This project is based on the work we did in the  `PhysioNet/Computing in Cardiology Challenge 2020 <https://physionetchallenges.github.io/2020/>`_.  `This paper <https://iopscience.iop.org/article/10.1088/1361-6579/abc960>`_ [#]_ describes the Challenge and `this paper <https://physionetchallenges.github.io/2020/papers/227.pdf>`_ discribes our contribution in this challenge.
 
 
 Data:
@@ -159,7 +159,9 @@ References:
 
 .. [#] ECG plot: https://github.com/dy1901/ecg_plot
 .. [#] PTB Diagnostic DB: Bousseljot R, Kreiseler D, Schnabel, A. Nutzung der EKG-Signaldatenbank CARDIODAT der PTB über das Internet. Biomedizinische Technik, Band 40, Ergänzungsband 1 (1995) S 317 (https://physionet.org/content/ptbdb/1.0.0/)
+.. [#] Perez Alday, Erick A, Annie Gu, Amit J Shah, Chad Robichaux, An-Kwok Ian Wong, Chengyu Liu, Feifei Liu, mfl. «Classification of 12-lead ECGs: the PhysioNet/Computing in Cardiology Challenge 2020». Physiological Measurement, 11. november 2020. https://doi.org/10.1088/1361-6579/abc960.
 .. [#] ECG-Featurizer: https://github.com/ECG-featurizer/ECG-featurizer
+
 
 
 
