@@ -56,7 +56,7 @@ How to get your Kaggle API token:
 
 |made-with-latex|
 
-.. |made-with-latex| image:: https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg   
+.. |made-with-latex| image:: https://colab.research.google.com/assets/colab-badge.svg   
    :target: https://www.latex-project.org/  
 
 Data:
