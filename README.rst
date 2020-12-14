@@ -49,8 +49,10 @@ To get access to the data used in this study you can either download it from htt
  
 How to get your Kaggle API token:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Log in to your `Kaggle account <https://www.kaggle.com/>`_ or sign up here: https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
-
+1. Log in to your `Kaggle account <https://www.kaggle.com/>`_ or sign up  `here <https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F>`_ 
+2. On the left side of the "edit profile"-button you click on the "Account"-option.   
+3. Scroll down to the API-section and click "Create New API Token"-button. 
+4. You will now have a file named kaggle.json. This is your API-token
 
 Data:
 -----
