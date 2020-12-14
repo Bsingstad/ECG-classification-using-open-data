@@ -126,6 +126,13 @@ Explanination - Ensemble Model :
 --------------------------------
 The notebook goes here
 
+Paper:
+======
+
+The paper describing the work in this project can be found here: |latex-file|
+                                                                                
+.. |latex-file| image::  https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg
+   :target: https://www.python.org/       
 
 
        
@@ -143,45 +150,9 @@ Licensed under the `Apache 2.0 License`_
 .. |Apache2.0 license| image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
    :target: https://opensource.org/licenses/Apache-2.0
    
-   
-
-
-To be able to reproduce the csv-file with ECG-features, you can use this Notebook hosted on Google Colab. 
-You will need a kaggle API-token to be able to access the 7 data sets that is used to make the csv-file:
-
-https://colab.research.google.com/drive/1X5N_6gErP7--IDoN-AxW-aBbeYa4z-n7?usp=sharing
-
-+---------------+------------------------------------------------------------------------------------------+
-|               | Language                                                                                 |
-+---------------+------------------------------------------------------------------------------------------+
-| Code          | |made-with-python|                                                                       |
-|               |                                                                                          |
-|               | .. |made-with-python| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg |
-|               |    :target: https://www.python.org/                                                      |
-+---------------+------------------------------------------------------------------------------------------+
-| Documentation | |made-with-latex|                                                                        |
-|               |                                                                                          |
-|               | .. |made-with-latex| image:: https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg   |
-|               |    :target: https://www.latex-project.org/                                               |
-+---------------+------------------------------------------------------------------------------------------+
-
-Folder structure:
-=================
-
- | Data
- | Hyperparameterresults
- | └── ECGopt11
- | Paper
- | └── Latex
- | Results
- | ├── ECG_results
- | └── Regression
- | Scripts
- | img
-
 
 References:
------------
+===========
 
 .. [#] ECG plot: https://github.com/dy1901/ecg_plot
 .. [#] PTB Diagnostic DB: Bousseljot R, Kreiseler D, Schnabel, A. Nutzung der EKG-Signaldatenbank CARDIODAT der PTB über das Internet. Biomedizinische Technik, Band 40, Ergänzungsband 1 (1995) S 317
