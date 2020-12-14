@@ -2,7 +2,7 @@
 FYS-STK4155 Project 3
 **********************
 
-.. image:: /img/Regression and Classification.png
+.. image:: /img/12_lead_ecg_plot.png
 
 ECG Classification
 =================================================================
