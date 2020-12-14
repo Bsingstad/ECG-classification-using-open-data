@@ -40,22 +40,6 @@ The data used in two different ways by the models in this project. The first met
 
 .. |makedataset| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/drive/1X5N_6gErP7--IDoN-AxW-aBbeYa4z-n7#scrollTo=mO_h0-9ebtCo  
-
-
-
-Folder structure:
-=================
-
- | Data
- | Hyperparameterresults
- | └── ECGopt11
- | Paper
- | └── Latex
- | Results
- | ├── ECG_results
- | └── Regression
- | Scripts
- | img
  
 
 Get access to the data:
@@ -190,6 +174,21 @@ https://colab.research.google.com/drive/1X5N_6gErP7--IDoN-AxW-aBbeYa4z-n7?usp=sh
 |               | .. |made-with-latex| image:: https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg   |
 |               |    :target: https://www.latex-project.org/                                               |
 +---------------+------------------------------------------------------------------------------------------+
+
+Folder structure:
+=================
+
+ | Data
+ | Hyperparameterresults
+ | └── ECGopt11
+ | Paper
+ | └── Latex
+ | Results
+ | ├── ECG_results
+ | └── Regression
+ | Scripts
+ | img
+
 
 References:
 -----------
