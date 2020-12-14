@@ -3,6 +3,7 @@ FYS-STK4155 Project 3
 **********************
 
 .. image:: /img/12_lead_ecg_plot.png
+
 **Figure 1:** This plot is made by using ecg plot [#]_  and the ECG data is from the PTB Diagnostic DB [#]_. 
 
 
