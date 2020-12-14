@@ -34,7 +34,7 @@ The data set in this project contains 43.101 ECGs and comes from six different s
 +-----------------+---------------------------------------------------+
 
 Preprocessing of data:
-======================
+----------------------
 The data used in two different ways by the models in this project. The first method, used by the Convolutional Neural Networks, is to use the as they are from the original dataset. The second method, used by the two ensemble models, is to extract features from the ECGs and and create a table with **n** rows and **m** columns were **n** = numbers of ECG recordings and **m** = number of features. The ECG-features are extracted by using an ECG-featurizer [#]_. The featurized data can be found `here <https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Data/ecg_data_with_labels.csv>`_ and the script for making the dataset is here: 
 |makedataset|
 
