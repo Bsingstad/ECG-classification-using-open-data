@@ -54,8 +54,9 @@ How to get your Kaggle API token:
 3. Scroll down to the API-section and click "Create New API Token"-button. 
 4. You will now have a file named kaggle.json. This is your API-token
 
- 
- .. |made-with-latex| image:: https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg   
+|made-with-latex|
+
+.. |made-with-latex| image:: https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg   
    :target: https://www.latex-project.org/  
 
 Data:
