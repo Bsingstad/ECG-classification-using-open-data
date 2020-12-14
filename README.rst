@@ -43,8 +43,13 @@ Folder structure:
  | img
  
 
+Get access to the data:
+-----------------------
+To get access to the data used in this study you can either download it from https://physionetchallenges.github.io/2020/#data or download the same data set from Kaggle. To use the codes in this repository you should sign up for a Kaggle account and get a Kaggle API token and use this to get access to the Kaggle data set from Google Colab. Google Colab Pro was used to get sufficient GPU power and enough runtime.
  
-
+How to get your Kaggle API token:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Log in to your Kaggle account (https://www.kaggle.com/) or sign up here: https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
 
 
 Data:
