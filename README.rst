@@ -123,10 +123,7 @@ How to get your Kaggle API token:
 
 Plot the cross-validation results:
 ----------------------------------
-The results from the cross-validated models can be plotted with this notebook |plot|.
-dddd
-
-ddd
+The results from the cross-validated models can be plotted with this notebook |plot|. The figures can be found `here <https://github.com/Bsingstad/FYS-STK4155-oblig3/tree/master/Results>`_.
 
 .. |plot| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/CVplot/boxplot.ipynb
