@@ -1,13 +1,12 @@
-**********************
-FYS-STK4155 Project 3
-**********************
+******************************
+Classification of 12-lead ECGs 
+******************************
 
 .. image:: /img/12_lead_ecg_plot.png
 **Figure 1:** This plot is made by using ecg plot [#]_  and the ECG data is from the PTB Diagnostic DB [#]_. 
 
 
-Classification of 12-lead ECGs 
-=================================================================
+
 This project is based on the work we did in the  `PhysioNet/Computing in Cardiology Challenge 2020 <https://physionetchallenges.github.io/2020/>`_.  `This paper <https://iopscience.iop.org/article/10.1088/1361-6579/abc960>`_ [#]_ describes the Challenge and `this paper <https://physionetchallenges.github.io/2020/papers/227.pdf>`_ discribes our contribution in this challenge.
 
 
