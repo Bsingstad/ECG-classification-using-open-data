@@ -104,7 +104,17 @@ Models:
 |              |                                                                     |    :target: https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Models/EnsembleModel2lead.ipynb  |                                                                                                                                               |
 +--------------+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
 
+** Please use these two URLs for the two ensemble models:
+12-lead:
+https://www.kaggle.com/bjoernjostein/fys-stk-oblig3-physionet-challenge-2021-starter
+2-lead:
+https://www.kaggle.com/bjoernjostein/fys-stk-oblig3-physionet-challenge-2021-will-2-do
 
+or se the the same models here on Github
+12-lead:
+https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Models/EnsembleModel12lead.ipynb
+2-lead:
+https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Models/EnsembleModel2lead.ipynb
 
 
 Plot the cross-validation results:
@@ -120,12 +130,17 @@ Explainable AI:
 
 Explanination - Convolutional Neural Network:
 ---------------------------------------------
-The notebook goes here
+
+https://colab.research.google.com/drive/13lR2Rx7mHLBlhbDzyViMPIukT2wV5jsj?usp=sharing
+
+https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Explainable%20AI/Encoder_Physionet_Challenge_explain.ipynb
 
 
 Explanination - Ensemble Model :
 --------------------------------
-The notebook goes here
+https://www.kaggle.com/bjoernjostein/fys-stk-oblig3-physionet-challenge-2021-explain
+
+https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Explainable%20AI/fys-stk-oblig3-physionet-challenge-2021-explain.ipynb
 
 Paper:
 ======
