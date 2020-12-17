@@ -105,15 +105,23 @@ Models:
 +--------------+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
 
 ** Please use these two URLs for the two ensemble models:
+
 12-lead:
+
 https://www.kaggle.com/bjoernjostein/fys-stk-oblig3-physionet-challenge-2021-starter
+
 2-lead:
+
 https://www.kaggle.com/bjoernjostein/fys-stk-oblig3-physionet-challenge-2021-will-2-do
 
 or se the the same models here on Github
+
 12-lead:
+
 https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Models/EnsembleModel12lead.ipynb
+
 2-lead:
+
 https://github.com/Bsingstad/FYS-STK4155-oblig3/blob/master/Notebooks/Models/EnsembleModel2lead.ipynb
 
 
